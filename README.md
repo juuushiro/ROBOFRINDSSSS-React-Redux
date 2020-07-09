@@ -1,5 +1,5 @@
 # ROBOFRINDSSSS 
-https://juuushiro.github.io/ROBOFRINDSSSS-React-Redux/
+You can donlowd the build for see in action:) <br>
 Hamburgers do 31! <br>
 
 ---> React + Redux<br>
